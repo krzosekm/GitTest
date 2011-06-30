@@ -15,7 +15,7 @@ public class Test2 {
 		int a = 5;
 		int b = 2;
 		int result = newClass.sum(a, b);
-		assertEquals(7, result);
+		assertEquals(12, result);
 	}
 
 }
